@@ -493,7 +493,8 @@
             "Aur aapki eyelashes waah kayamat🫡.",
             "Aapke har ak aang pe ye dil fidda h 🫠.",
             "Chlo dikhao tb😁.",
-            "Itna sb bol rhi hu bhaw mt khana ab 😏.",
+            "Itna sb bol rhi hu bhaw mt khana ab.",
+            "Baki to tum Darling ho meri pyari si ❤️😗.",
             ];
 
         const jokes = [
@@ -501,21 +502,21 @@
         ];
 
         const promises = [
-            "I promise to always listen to you.",
-            "I promise to support your dreams, no matter how big.",
-            "I promise to be your biggest cheerleader.",
-            "I promise to never go to bed angry.",
-            "I promise to love you, even when you're hangry."
+            "I promise Me hmesa sath rhungi😁❤️.",
+            "I promise Me hmesa har baat pe gussa krungi nhi krungi to mujhe acha nhi lgta h n 😏 .",
+            "I promise Me har baat bataungi tumhe batati hi hu waise bhi😽🫡.",
+            "I promise Koi baat nhi chupaungi🙄.",
+            "I promise Aur hmesa tumse pyar krungi 🌍💌."
         ];
 
         const memories = [
-            "Our first date... I was so nervous!",
-            "The trip to the beach where it rained all day.",
-            "That late night drive singing at the top of our lungs.",
-            "The first time you said 'I love you'.",
-            "Getting lost in the city and finding that amazing cafe.",
-            "Watching the sunset together.",
-           " Issme se to avi kuch hua nhi h 🙄.",
+            "Aditya Singh wo din yaad kro jb hm pehli baar mile the dost bnke😏",
+            "Aur ak aaj ka din dekho me tumhare liye itna likh rhi hu💌😙.",
+            "Aur maine 25 march ko I LOVE YOU bol diya akhir❤️😒.",
+            "Aur phir usske baad tumne bhi bola😾 'I love you'.",
+            "Lekin maine sirf issiliye i love you bola pehle ki tum ache lg rhe the uss din 😏",
+            "Aur to kuch nhi h🙄💌.",
+           " Aur akhiri baat sb padhne ke baad bhaw mt marna ab thik😏❤️ I LOVE YOU.",
         ];
 
         // DOM Elements
