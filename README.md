@@ -492,7 +492,6 @@
             "Aditya singh tum to wo chij ho ki jiski life me jate ho ussko badal dete ho😁.",
             "Aur aapki eyelashes waah kayamat🫡.",
             "Aapke har ak aang pe ye dil fidda h 🫠.",
-            "Chlo dikhao tb😁.",
             "Itna sb bol rhi hu bhaw mt khana ab.",
             "Baki to tum Darling ho meri pyari si ❤️😗.",
             ];
@@ -503,7 +502,7 @@
 
         const promises = [
             "I promise Me hmesa sath rhungi😁❤️.",
-            "I promise Me hmesa har baat pe gussa krungi nhi krungi to mujhe acha nhi lgta h n 😏 .",
+            "I promise Me hmesa har baat pe gussa krungi nhi krungi to mujhe acha nhi lgta h n😏.",
             "I promise Me har baat bataungi tumhe batati hi hu waise bhi😽🫡.",
             "I promise Koi baat nhi chupaungi🙄.",
             "I promise Aur hmesa tumse pyar krungi 🌍💌."
@@ -515,8 +514,6 @@
             "Aur maine 25 march ko I LOVE YOU bol diya akhir❤️😒.",
             "Aur phir usske baad tumne bhi bola😾 'I love you'.",
             "Lekin maine sirf issiliye i love you bola pehle ki tum ache lg rhe the uss din 😏",
-            "Aur to kuch nhi h🙄💌.",
-           " Aur akhiri baat sb padhne ke baad bhaw mt marna ab thik😏❤️ I LOVE YOU.",
         ];
 
         // DOM Elements
