@@ -1,4 +1,4 @@
-# Mine-Forever-
+# Mine-Forever-❤️😽
 <!DOCTYPE html>
 <html lang="en">
 
@@ -462,7 +462,8 @@
     <div id="proposalModal" class="modal">
         <div class="modal-content glass-card proposal-card">
             <div class="modal-body">
-                <h2>Will You Be My Valentine? 🌹</h2>
+                <h2>Will You Be My Valentine? ❤️ </h2>
+                <h3>Dusri baar puch rhi,😏tum to ak bhi baar nhi puche🙄</h3>
                 <p>You make my world brighter every single day. I can't imagine life without you.</p>
                 <div class="proposal-buttons">
                     <button id="yesBtn" class="btn yes-btn">YES! 😍</button>
@@ -488,30 +489,21 @@
     <script>
         // Data Arrays - Replace with your own content!
         const compliments = [
-            "You light up every room you walk into.",
-            "Your smile is my favorite thing in the world.",
-            "I love the way you think.",
-            "You are incredibly kind and generous.",
-            "Being with you makes everything better.",
-            "You inspire me to be a better person.",
-            "You have the most beautiful soul.",
-            "I love your laugh!"
-        ];
+            "Aditya singh tum to wo chij ho ki jiski life me jate ho ussko badal dete ho😁.",
+            "Aur aapki eyelashes waah kayamat🫡.",
+            "Aapke har ak aang pe ye dil fidda h 🫠.",
+            "Chlo dikhao tb😁.",
+            "Itna sb bol rhi hu bhaw mt khana ab 😏.",
+            ];
 
         const jokes = [
-            "Remember that time we tried to cook? Yeah, let's order pizza forever.",
-            "Inside Joke #404: Explanation not found.",
-            "You: *Sneezes* \nMe: 'Is that a yes?'",
-            "Us trying to navigate: 'Turn left!' 'No, the other left!'",
-            "That one movie we watched that made absolutely no sense...",
-            "Why did we think we could finish that giant pizza? (Okay, we definitely could have)."
+            "Issme kya dekh rhe ho issme nhi h kuch 😏."
         ];
 
         const promises = [
             "I promise to always listen to you.",
             "I promise to support your dreams, no matter how big.",
             "I promise to be your biggest cheerleader.",
-            "I promise to always share my fries with you.",
             "I promise to never go to bed angry.",
             "I promise to love you, even when you're hangry."
         ];
@@ -522,7 +514,8 @@
             "That late night drive singing at the top of our lungs.",
             "The first time you said 'I love you'.",
             "Getting lost in the city and finding that amazing cafe.",
-            "Watching the sunset together."
+            "Watching the sunset together.",
+           " Issme se to avi kuch hua nhi h 🙄.",
         ];
 
         // DOM Elements
